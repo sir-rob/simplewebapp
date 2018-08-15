@@ -1,2 +1,2 @@
-FROM	nginx:1.13.12-alpine
+FROM	bitnami/nginx:latest
 COPY	/ /usr/share/nginx/html/

@@ -1,2 +1,2 @@
 FROM	bitnami/nginx:latest
-COPY	/ /usr/share/nginx/html/
+COPY	/ /opt/bitnami/nginx/html/

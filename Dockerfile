@@ -1,2 +1,2 @@
-FROM	bitnami/nginx:1.13.0
+FROM	bitnami/nginx:1.14.1
 COPY	/ /opt/bitnami/nginx/html/
